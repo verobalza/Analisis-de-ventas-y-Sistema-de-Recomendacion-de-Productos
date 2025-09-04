@@ -36,6 +36,16 @@ Castellón de la Plana, España
 LinkedIn: https://linkedin.com/in/veronicabalza  
 GitHub: https://github.com/veronicabalza
 
+
+## Estructura del repositorio
+- `consultas_sql/`: Archivo con las consultas SQL utilizadas para el análisis de ventas e insights.
+- `requerimientos/`: Documento funcional con los requerimientos del sistema de recomendación.
+- `market_basket_analysis/`: Script en Python para generar reglas de asociación entre productos.
+- `asociacion_productos/`: Resultados del modelo, incluyendo métricas como lift, soporte y confianza.
+- `dashboards/`: Capturas de los dashboards desarrollados en Power BI.
+- `conclusiones/`: Informe final con hallazgos clave y recomendaciones estratégicas.
+
+
 ## Documentación adicional
 
 -[Requerimientos Funcionales del Sistema de Recomendación – Proyecto SanoFood](requirements/Requerimientos.pdf) 
