@@ -39,5 +39,15 @@ GitHub: https://github.com/veronicabalza
 ## Documentación adicional
 
 -[Requerimientos Funcionales del Sistema de Recomendación – Proyecto SanoFood](requirements/Requerimientos.pdf) 
-- [Consultas SQL ánalisis de ventas](consultas/consultas_bd.sql)
+-[Consultas SQL ánalisis de ventas](consultas/consultas_bd.sql)
+## Dashboards del proyecto
+
+Este proyecto incluye dos dashboards desarrollados en Power BI:
+
+- **Dashboard de ventas**: Visualiza ingresos, unidades vendidas y evolución mensual.
+- **Dashboard de recomendaciones**: Muestra asociaciones entre productos mediante métricas como lift, soporte y confianza.
+
+- [Capturas de los dashboards](dashboard/Capturas_dashboard.pdf)
+> Nota: El archivo original del dashboard en Power BI (.pbix) no se incluye por limitaciones de tamaño en GitHub. Si deseas revisarlo, puedes solicitarlo directamente.
+
 
