@@ -14,7 +14,7 @@ El objetivo fue desarrollar un sistema que, a partir del historial de compras, p
 ## Componentes del proyecto  
 - Base de datos: Estructura en Excel con registros de ventas simuladas  
 - Consultas: Exploración de datos según problemáticas comerciales (`resumen_consultas.xlsx`)  
-- Requerimientos: Documento funcional ampliado con necesidades del sistema (`requerimientos_funcionales.docx`)  
+- Requerimientos: Documento funcional ampliado con necesidades del sistema (`Requerimientos.pdf`)  
 - Dashboard: Visualización de KPIs en Excel (`dashboard_sanofood.xlsx`)  
 - Modelo de recomendación: Script en Python con cálculo de soporte, confianza y lift (`modelo_recomendacion.py`)  
 - Resultados: Archivo CSV con asociaciones entre productos (`asociaciones.csv`)  
@@ -35,3 +35,8 @@ Analista de Datos | Ingeniería Civil | Python | Estrategia de Negocio
 Castellón de la Plana, España  
 LinkedIn: https://linkedin.com/in/veronicabalza  
 GitHub: https://github.com/veronicabalza
+
+## Documentación adicional
+
+[Requerimientos Funcionales del Sistema de Recomendación – Proyecto SanoFood](requirements/Requerimientos.pdf)
+
