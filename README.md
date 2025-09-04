@@ -13,12 +13,12 @@ El objetivo fue desarrollar un sistema que, a partir del historial de compras, p
 
 ## Componentes del proyecto  
 - Base de datos: Estructura en Excel con registros de ventas simuladas  
-- Consultas: Exploración de datos según problemáticas comerciales (`resumen_consultas.xlsx`)  
+- Consultas: Exploración de datos según problemáticas comerciales (`consultas_bd.sql`)  
 - Requerimientos: Documento funcional ampliado con necesidades del sistema (`Requerimientos.pdf`)  
-- Dashboard: Visualización de KPIs en Excel (`dashboard_sanofood.xlsx`)  
+- Dashboard: Visualización de KPIs en Excel (`dashboard_sanofood.pbix`)  
 - Modelo de recomendación: Script en Python con cálculo de soporte, confianza y lift (`modelo_recomendacion.py`)  
 - Resultados: Archivo CSV con asociaciones entre productos (`asociaciones.csv`)  
-- Informe final: Documento de conclusiones del análisis (`informe_conclusiones.docx`)
+- Informe final: Documento de conclusiones del análisis (`informe_conclusiones.pdf`)
 
 ## Herramientas utilizadas  
 - Python (Pandas, SQLite3, itertools)  
