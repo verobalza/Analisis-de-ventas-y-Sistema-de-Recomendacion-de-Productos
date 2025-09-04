@@ -16,9 +16,9 @@ El objetivo fue desarrollar un sistema que, a partir del historial de compras, p
 - Consultas: Exploración de datos según problemáticas comerciales (`consultas_bd.sql`)  
 - Requerimientos: Documento funcional ampliado con necesidades del sistema (`Requerimientos.pdf`)  
 - Dashboard: Visualización de KPIs en Excel (`dashboard_sanofood.pbix`)  
-- Modelo de recomendación: Script en Python con cálculo de soporte, confianza y lift (`modelo_recomendacion.py`)  
+- Modelo de recomendación: Script en Python con cálculo de soporte, confianza y lift (`market_basket_A.py`)  
 - Resultados: Archivo CSV con asociaciones entre productos (`asociaciones.csv`)  
-- Informe final: Documento de conclusiones del análisis (`informe_conclusiones.pdf`)
+- Informe final: Documento de conclusiones del análisis (`conclusiones.pdf`)
 
 ## Herramientas utilizadas  
 - Python (Pandas, SQLite3, itertools)  
@@ -39,7 +39,10 @@ GitHub: https://github.com/veronicabalza
 ## Documentación adicional
 
 -[Requerimientos Funcionales del Sistema de Recomendación – Proyecto SanoFood](requirements/Requerimientos.pdf) 
--[Consultas SQL ánalisis de ventas](consultas/consultas_bd.sql)
+-[Consultas SQL análisis de ventas](consultas/consultas_bd.sql)
+-[Market Basket Analysis](Market_basket_A.py)
+-[asociaciones](asociaciones_productos/asociaciones.csv)
+-[conclusiones](conclusiones/conclusiones.pdf)
 ## Dashboards del proyecto
 
 Este proyecto incluye dos dashboards desarrollados en Power BI:
