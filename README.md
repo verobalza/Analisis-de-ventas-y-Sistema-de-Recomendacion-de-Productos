@@ -39,4 +39,5 @@ GitHub: https://github.com/veronicabalza
 ## Documentación adicional
 
 [Requerimientos Funcionales del Sistema de Recomendación – Proyecto SanoFood](requirements/Requerimientos.pdf)
+[Consultas SQL ánalisis de ventas](consultas/consultas_db.sql)
 
