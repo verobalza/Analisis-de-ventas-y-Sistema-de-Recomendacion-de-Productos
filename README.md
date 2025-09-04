@@ -50,7 +50,7 @@ GitHub: https://github.com/veronicabalza
 
 -[Requerimientos Funcionales del Sistema de Recomendación – Proyecto SanoFood](requirements/Requerimientos.pdf) 
 -[Consultas SQL análisis de ventas](consultas/consultas_bd.sql)
--[Market_basket_analisis](market_Basket_A.py)
+-[Market_basket_analisis](Market_basket_analisis/market_Basket_A.py)
 -[asociaciones](asociaciones_productos/asociaciones.csv)
 -[conclusiones](conclusiones/conclusiones.pdf)
 ## Dashboards del proyecto
