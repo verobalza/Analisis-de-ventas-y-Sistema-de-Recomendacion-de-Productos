@@ -29,13 +29,6 @@ El objetivo fue desarrollar un sistema que, a partir del historial de compras, p
 ## Notas  
 Este proyecto utiliza datos simulados. El nombre del establecimiento ha sido modificado por motivos de privacidad. La base de datos completa no se incluye por tamaño, pero se proporciona una muestra estructural para referencia.
 
-## Autora  
-Verónica Balza Herrera  
-Analista de Datos | Ingeniería Civil | Python | Estrategia de Negocio  
-Castellón de la Plana, España  
-LinkedIn: https://linkedin.com/in/veronicabalza  
-GitHub: https://github.com/veronicabalza
-
 
 ## Estructura del repositorio
 - `consultas_sql/`: Archivo con las consultas SQL utilizadas para el análisis de ventas e insights.
@@ -62,5 +55,10 @@ Este proyecto incluye dos dashboards desarrollados en Power BI:
 
 - [Capturas de los dashboards](dashboard/Capturas_dashboard.pdf)
 > Nota: El archivo original del dashboard en Power BI (.pbix) no se incluye por limitaciones de tamaño en GitHub. Si deseas revisarlo, puedes solicitarlo directamente.
-
+## Autora  
+Verónica Balza Herrera  
+Analista de Datos | Ingeniería Civil | Python | Estrategia de Negocio  
+Castellón de la Plana, España  
+LinkedIn: https://linkedin.com/in/veronicabalza  
+GitHub: https://github.com/veronicabalza
 
