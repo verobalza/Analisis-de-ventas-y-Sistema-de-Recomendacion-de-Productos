@@ -41,11 +41,11 @@ Este proyecto utiliza datos simulados. El nombre del establecimiento ha sido mod
 
 ## Documentación adicional
 
--[Requerimientos](requirements/Requerimientos.pdf) 
--[Consultas SQL - análisis de ventas](consultas/consultas_bd.sql)
--[Market basket analisis](market_basket_analisis/market_Basket_A.py)
--[asociaciones de productos](asociacion_productos/asociaciones.csv)
--[conclusiones](conclusiones/conclusiones.pdf)
+- [Requerimientos](requirements/Requerimientos.pdf) 
+- [Consultas SQL - análisis de ventas](consultas/consultas_bd.sql)
+- [Market basket analisis](market_basket_analisis/market_Basket_A.py)
+- [asociaciones de productos](asociacion_productos/asociaciones.csv)
+- [conclusiones](conclusiones/conclusiones.pdf)
 ## Dashboards del proyecto
 
 Este proyecto incluye dos dashboards desarrollados en Power BI:
